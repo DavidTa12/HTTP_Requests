@@ -1,4 +1,4 @@
-# HTTP_Requests
+# HTTP Requests
 
 HTTP requests using Microsoft Teams API. 
 
